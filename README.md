@@ -1,2 +1,2 @@
-# arduino_my_timer
+# MyTimer for Arduino
 This is a non-blocking timer for arduino
