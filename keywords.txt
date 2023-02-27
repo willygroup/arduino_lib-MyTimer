@@ -12,10 +12,18 @@ MyTimer KEYWORD1
 # Methods and Functions (KEYWORD2)
 #######################################
 
-setAlarm	KEYWORD2
-checkAlarm	KEYWORD2
-cancel	KEYWORD2
+begin           KEYWORD2
+setAlarm        KEYWORD2
+setAlarm        KEYWORD2
+setAlarmTime    KEYWORD2
+checkAlarm      KEYWORD2
+cancel          KEYWORD2
+isSetted        KEYWORD2
+setMeasureUnit  KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
 #######################################
+
+MSECS   LITERAL1
+SECS    LITERAL1
